@@ -21,6 +21,7 @@ _minted/
 
 .vscode/
 .idea/
+/notes
 *.swp
 *.swo
 *~
