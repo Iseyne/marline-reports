@@ -4,7 +4,7 @@
 
 **Тема:** Предрелизная подготовка в системе MarLine  
 **Автор:** Andrey Ovechkin  
-**Кодовая база:** [Iseyne/marline](https://github.com/Iseyne/marline)
+**Репозиторий:** [Iseyne/marline](https://github.com/Iseyne/marline)
 
 ## Структура
 
@@ -13,7 +13,6 @@
 | `reports/` | Отчёты |
 | `presentations/` | Презентации к защите |
 | `measurements/` | Результаты измерений |
-| `notes/` | Рабочие заметки |
 
 ## Статус
 
